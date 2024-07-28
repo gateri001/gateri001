@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @gateri001
-- 👀 I’m interested in software engeering
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently learning python
 - 📫 How to reach me www.linkedin.com/in/gateri-jeremiah-ab2129320
